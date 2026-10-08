@@ -1,0 +1,8 @@
+{
+  "name": "Remix Staffing Candidate Status \u0026 Cleanup Rules",
+  "description": "Enterprise Admin Configuration module for candidate status management, automated archiving, approval workflows, retention policies, and candidate lifecycle controls.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
